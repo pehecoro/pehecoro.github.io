@@ -1,0 +1,106 @@
+html {
+        font-family: monospace;
+        background-color: black;
+        background-image: url(haunter.png)
+    }
+
+html, body {
+    height: 100%
+}
+
+a {
+    color: #267
+}
+
+    a:hover {
+        color:blueviolet
+    }
+
+p {
+    margin: 0 0 1em;
+    color: azure
+}
+
+header {
+    color: darkmagenta;
+    font-size: 1.5em
+}
+
+section article header {
+    color: chartreuse
+}
+
+nav {
+    font-size: 1.5em;
+    margin: 5px 0;
+    padding: 20px 50px
+}
+    nav li {
+        display: inline
+    }
+    nav li:first-child {
+        margin-left: 0
+    }
+    nav span,
+    nav a {
+        padding: 3px 15px 4px
+    }
+    nav span {
+        background-color:darkslateblue;
+        color:darkseagreen
+    }
+    
+    nav header {
+        margin-left: 0;
+        font-size: 12px;
+        padding: 0
+    }
+
+section {
+    float: left;
+    padding: 35px 0;
+    position: relative;
+    width: 70%
+}
+    section article {
+        margin: 0 50px 40px;
+        padding: 25px 0 0;
+        position: relative
+    }
+
+    section header {
+        font-size: 1em;
+        padding: 0
+    }
+
+    section h2 {
+        font-size: 2.3em;
+    }
+
+aside {
+    float: right;
+    padding: 50px 0 30px;
+    position: relative;
+    width: 25%
+}
+    aside h2 {
+        color: aliceblue;
+        font-size: 1.8em
+    }
+    aside .fast-links {
+        padding: 15px 35px 10px 0;
+        text-align: left
+    }
+        aside .fast-links li {
+            display:flex
+        }
+        aside .fast-links a {
+            color:aqua
+        }
+        aside .fast-links a:hover {
+            color:blueviolet
+        }
+footer {
+    clear: both;
+    padding: 10px 50px
+}

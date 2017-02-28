@@ -1,7 +1,3 @@
-This project is just for learn!
+Basically i'm learning HTML 5 and helping people with another contents.
 
-so.. don't wait for something really cool
-
-Basically i'll learn HTML 4 or who knows 5..
-
-I accept any help!
+I appreciate any help!
