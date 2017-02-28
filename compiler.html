@@ -20,35 +20,55 @@
                 <li><a href="">Contact</a></li>
             </ul>
         </nav>
-        
         <section>
             <header>
-                <h2>Materials</h2>
+                <h2>Compiler</h2>
             </header>
             <article>
-                <header><h3><a href="compiler.html">Compiler</a></h3></header>
-                <p>
-                    I'll talk about the basics of a compiler. Since the analysis to the computer's language.
-                </p>
-            </article>
-            
-            <article>
                 <header>
-                    <h3><a href="concurrent.html">Concurrent and Distributed Computing</a></h3>
+                    Lexical Analysis
                 </header>
                 <p>
-                    Let's see more about the problems and attempts, along the history, to make a concurrent and distributed algorithms.
-                    And, of course, create programs applying that attempts.
+                    Defined by the Regular Grammar. The Lexical Analyzer(or known as Scanner) do the analysis itself.
+                    The analysis consists of checking each character if it exists on alphabet and if it does not, then
+                    put this new one there (Maybe it sends a warning).
+                    As the check is going on, the Analyzer mount tokens on a symbols table. These tokens are mounted
+                    according to the analyzer see specific symbols.
                 </p>
+                <p>Example: <font color="purple">int</font> foo;</p>
+                <p>The analyzer will do:</p>
+                <p>(I) ok, it exists. (N) ok, it exists. (T) ok, it exists. ( ) a space, so lets put
+                    these letters as a token on the symbols table.</p>
+                <p>(F) ok, it exists. (O) ok, it exists. (O) ok, it exists. (;) ok, it exists but theses letters
+                will be a token and (;) another one.</p>
+                <p><font color="red">Remember</font>: There's no equal tokens on the same symbols table.</p>
+                <p>Token types:</p>
+                    <ul>
+                        <li>Reserved Words</li>
+                        <li>Comments</li>
+                        <li>Literal/String/Constant</li>
+                        <li>Identifiers(variables, non-terminals)</li>
+                        <li>Symbols(Operators, termination)</li>
+                    </ul>
+                
             </article>
-            
             <article>
                 <header>
-                    <h3><a href="">Life Cycle of a Project</a></h3>
+                    Syntax Analysis
                 </header>
                 <p>
-                    Let's see what is envolved on a project development. Talking about the basics of a classic cycle, the importance of UML and dealing with UML examples. And who knows about Agile Methodologies.                
+                
                 </p>
+            
+            </article>
+            <article>
+                <header>
+                    Semantic Analysis
+                </header>
+                <p>
+                
+                </p>
+            
             </article>
             
         </section>

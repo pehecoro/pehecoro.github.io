@@ -21,13 +21,19 @@ p {
     color: azure
 }
 
+section article li{
+    color: aliceblue
+}
+
 header {
     color: darkmagenta;
     font-size: 1.5em
 }
 
 section article header {
-    color: chartreuse
+    color: #267;
+    font-size: 1.5em;
+    padding-bottom: 10px
 }
 
 nav {
