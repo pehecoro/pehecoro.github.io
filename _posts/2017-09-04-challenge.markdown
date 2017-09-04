@@ -19,7 +19,7 @@ If you want to know more about the #100DaysOfCode, checkout the [100DaysOfCode C
 Now my main purpose is to learn the C++ programming language. To do that I intend to follow the book
 
 ###### _Beginning C++ Through Game Programming by Michael Dawson_  
-![Beginning C++ Through Game Programming 4th edition]({{site.url}}/images/cppBook.jpeg)  
+![Beginning C++ Through Game Programming 4th edition](https://pehecoro.github.io/images/cppBook.jpeg)  
 
 Since I was already reading the book then I'll continue from Chapter 3.
 
