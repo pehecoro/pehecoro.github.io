@@ -9,8 +9,9 @@ Day 1 of 100
 
 Hello my friend,
 
-today I did a Word Jumble exercise, a puzzle game, and I didn't know what it was until I read it in the book ~_hahahaha_~.
-Sometimes I got frustrated because I tried to create alone, however it's good to try to do things by yourself.  
+today I did a Word Jumble exercise, a puzzle game, in __c++__ and I didn't know what it was until I read it in the book ~_hahahaha_~.
+Sometimes I get frustrated because I try to create alone, however, when you finish the project, you realize how much knowledge you have gained.  
+Anyway, I had to ask the book for help ^^.  
 Here's the code:
 
 {% highlight cpp%}
