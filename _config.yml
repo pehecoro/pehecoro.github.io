@@ -16,7 +16,7 @@
 title: Pehecoro
 email: pehecoro@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
-  Focus on graphics programming, The blog was created to show my progress of the quest  
+  Focus on graphics programming, the blog was created to show my progress of the quest  
   "100 Days of Code". So I made it so that I can create good habits, organize and 
   grow in all aspects of development.
 baseurl: "" # the subpath of your site, e.g. /blog
