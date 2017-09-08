@@ -1,0 +1,106 @@
+---
+layout: post
+title:  "Code Day [4/100]"
+date:   2017-09-07 21:09:00
+categories: challenge update
+---
+
+Day 4 of 100
+
+Hello my friend,
+
+today I read the chapter 5 (functions), however I already knew more about functions, so, unfortunately, I didn't get so much new information.  
+Anyway, not so much but I learned about Inlining Functions.  
+To use them, you have to put _inline_ before the function __definition__, like that:  
+{% highlight cpp%}
+//Declaration
+void showMeHowYouDo();
+
+//Definition
+inline void showMeHowYouDo(){
+	cout << "=)" << endl;
+}
+{% endhighlight cpp%}
+##### (Do not use inline in the function declaration)  
+So the compiler will make a copy of the function everywhere it's called. Indicated for small functions and, depending on the situation, speed up the program performance.
+
+Well, after that, I started the chapter 6 (References) and I did some exercises to help me to understand. 
+
+{% highlight cpp%}
+#include <iostream>
+#include <string>
+#include <ctime>
+#include <cstdlib>
+#include <vector>
+
+/**
+ *  Simple example of references
+ */
+
+using namespace std;
+
+void badTrade(string playerXItem, string playerYItem);
+void goodTrade(string& playerXItem, string& playerYItem);
+void showInventory(const vector<string>& inventory, const string& playerName);
+
+int main(){
+
+	const int MAX_SIZE = 3;
+
+	const string playerXName = "Sonic";
+	const string playerYName = "Mario";
+	vector<string> inventoryPlayerX = {"Sword","Life Potion","Rat"};
+	vector<string> inventoryPlayerY = {"Shield","Stick","Stone"};
+
+
+	srand(static_cast<unsigned int>(time(0)));
+	const int xItem = rand() % MAX_SIZE;
+	const int yItem = rand() % MAX_SIZE;
+
+	cout << "X Item to trade: " << inventoryPlayerX[xItem] << endl;
+	cout << "Y Item to trade: " << inventoryPlayerY[yItem] << endl;
+	cout << "   Before TRADES" << endl;
+
+	showInventory(inventoryPlayerX, playerXName);
+	showInventory(inventoryPlayerY, playerYName);
+
+	badTrade(inventoryPlayerX[xItem],inventoryPlayerY[yItem]);
+
+	cout << "   After BAD TRADE" << endl;
+
+	showInventory(inventoryPlayerX, playerXName);
+	showInventory(inventoryPlayerY, playerYName);
+
+	goodTrade(inventoryPlayerX[xItem],inventoryPlayerY[yItem]);
+
+	cout << "   After GOOD TRADE" << endl;
+
+	showInventory(inventoryPlayerX, playerXName);
+	showInventory(inventoryPlayerY, playerYName);
+
+	return 0;
+}
+
+inline void badTrade(string playerItemX, string playerItemY){
+	string aux = playerItemX;
+	playerItemX = playerItemY;
+	playerItemY = aux;
+}
+
+inline void goodTrade(string& playerItemX, string& playerItemY){
+	string aux = playerItemX;
+	playerItemX = playerItemY;
+	playerItemY = aux;
+}
+
+void showInventory(const vector<string>& inventory, const string& playerName){
+	cout << "===" << playerName << " Inventory ===" << endl;
+	for(vector<string>::const_iterator i = inventory.begin(); i != inventory.end(); i++){
+		cout << ">" << (*i) << endl;
+	}
+	cout  << "=====================" << endl;
+}
+
+{% endhighlight cpp%}
+
+_Have a great day =)_
