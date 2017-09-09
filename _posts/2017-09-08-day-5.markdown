@@ -20,6 +20,10 @@ It was so much fun because I knew all the possibilities of Tic Tac Toe too, so t
 #include <cstdlib>
 #include <algorithm>
 
+/**
+ * Tic Tac Toe - AI
+ */
+ 
 using namespace std;
 
 const char X = 'X';
