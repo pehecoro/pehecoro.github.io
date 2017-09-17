@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [14/100]"
+date:   2017-09-17 20:17:00
+categories: challenge update
+---
+
+Day 14 of 100
+
+Hello my friend,
+
+today I saw some videos by TheChernoProject again and I started to make a simple "quest creator" just to exercise more what I've learned these days. Well, unfortunately I didn't finish it but I think it will be ready tomorrow.
+
+_Have a great day =)_
