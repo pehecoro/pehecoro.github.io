@@ -9,6 +9,6 @@ Day 15 of 100
 
 Hello my friend,
 
-today I continued doing the quests system. However, as I proceeded with the last part (Completing the quest) I came across, as throughout development, something I could have done better. Like, for example, when I ventured to use the template to not duplicate functions for just one type change (I'm still learning templates, haha). Anyway, this time, I realized that I was recreating quests and items to save in the player, which is not necessary, so I'll create pointers to save the addresses of the items and quests already created. Anyway I plan to continue with the evolution of the system and I will save it in github, so if you want to follow or give me some suggestions, my github is right down the site.
+today I continued doing the quests system. However, as I proceeded with the last part (Completing the quest) I came across, as throughout development, something I could have done better. Like, for example, when I ventured to use the template to not duplicate functions for just one type change (I'm still learning templates, haha). Anyway, this time, I realized that I was recreating quests and items to save in the player, which is not necessary, so I'll create pointers to save the addresses of the items and quests already created. Anyway I plan to continue with the evolution of the system and I will save it in github (learning-cpp/projects/Quest.cpp), so if you want to follow or give me some suggestions, my github is right down the site.
 
 _Have a great day =)_
