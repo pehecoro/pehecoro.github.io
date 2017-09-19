@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Code Day [16/100]"
+date:   2017-09-19 20:44:00
+categories: challenge update
+---
+
+Day 16 of 100
+
+Hello my friend,
+
+today I continued with the evolution of the simple quest system. Well, in a way, I first had to complete the quests-completing part to continue with some improvements in the code. I have some problems with "exotic" text input, but I left it aside by finding several parts that I could have done better. On the one hand it's good because I can see some flaws, but on the other hand, maybe I need to study more better ways to implement certain things.  
+All code continues to be updated in my github in learning-cpp / projects
+
+_Have a great day =)_
