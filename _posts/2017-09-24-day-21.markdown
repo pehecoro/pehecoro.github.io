@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Code Day [21/100]"
+date:   2017-09-24 21:55:00
+categories: challenge update
+---
+
+Day 21 of 100
+
+Hello my friend,
+
+today I started the day seeing some videos from TheChernoProject about classes, structs, explicit ... Then I went to see some things about SDL. Although I've already ventured a little bit into this, I've refined some early tutorials using the knowledge I have of C ++ right now. Later I came back to my progress on [Learn OpenGL][learnopengl] by adding the emission map, which honestly made my boxes pretty cool.
+
+![Emission Map](https://pehecoro.github.io/images/emissionmap.png)
+
+_Have a great day =)_
+
+[learnopengl]: https://learnopengl.com
