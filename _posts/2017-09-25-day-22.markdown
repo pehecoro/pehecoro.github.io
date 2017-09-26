@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Code Day [22/100]"
+date:   2017-09-25 22:30:00
+categories: challenge update
+---
+
+Day 22 of 100
+
+Hello my friend,
+
+today I borrowed the Scott Meyers' book (Effective C++) from the library and started reading it. In a few pages I have already been able to remember some points I had forgotten. However, I believe it will be most effective when I have a project.  
+After that I started implementing a binary tree using some of the resources I learned from C++. Since I have not finished, I will not post it, but I intend to do so tomorrow.
+
+_Have a great day =)_
