@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [26/100]"
+date:   2017-09-29 22:26:00
+categories: challenge update
+---
+
+Day 26 of 100
+
+Hello my friend,
+
+Today I was able to renew my Pluralsight account for 3 months. I was quite happy to be able to continue my studies in Pluralsight. Well, I've repeated the examples, and I've tried to change some things to better understand. Anyway I had to go to other places to have other points of view that made me consolidate the knowledge acquired. I was able to get a better idea about Variadic Template, Template Aliases, Template Arguments and extern Templates.
+
+_Have a great day =)_
