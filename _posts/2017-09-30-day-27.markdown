@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [27/100]"
+date:   2017-09-30 21:19:00
+categories: challenge update
+---
+
+Day 27 of 100
+
+Hello my friend,
+
+today I continued to see some Pluralsight videos and I was able to practice them by creating some simple examples. I saw about In-class initializers, inheriting, delegating constructors, default and deleted methods, override and final keywords. Some things I had seen, but anyway, as always, I changed a few uses to clarify my understanding.
+
+_Have a great day =)_
