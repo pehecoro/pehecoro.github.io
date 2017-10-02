@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [28/100]"
+date:   2017-10-01 21:19:00
+categories: challenge update
+---
+
+Day 28 of 100
+
+Hello my friend,
+
+Today I saw some CppCon videos, including one by Jason Turner entitled "Pratical Performance Practices". It's just great to see some suggestions and try to hit some "optimizations" of the codes presented. After I saw some more Pluralsight videos on Uniform initialization and initializer_list, I created some crazy code to test some things learned.
+
+_Have a great day =)_
