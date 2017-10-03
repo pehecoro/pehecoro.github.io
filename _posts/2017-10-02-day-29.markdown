@@ -26,7 +26,7 @@ public:
 };
 
 int main() {
-    JetPlane& p = JetPlane(); //Error
+    JetPlane& p = JetPlane(); //error: cannot bind non-const lvalue reference of type 'JetPlane&' to an rvalue of type 'JetPlane'
 
     return 0;
 }
