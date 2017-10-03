@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Code Day [29/100]"
+date:   2017-10-02 22:01:00
+categories: challenge update
+---
+
+Day 29 of 100
+
+Hello my friend,
+
+today I continued reading the effective c ++ and saw some more pluralsight videos. This time about an introduction of Move semantics and lvalue / rvalue. I followed the examples presented in Visual Studio and tried to modify them. There was one that shouldn't to compile but compiled
+
+{% highlight cpp%}
+#include <iostream>
+
+using namespace std;
+
+class JetPlane
+{
+    string _model;
+public:
+    JetPlane() = default;
+    JetPlane(const string& model) : _model(model)
+    {}
+};
+
+int main() {
+    JetPlane& p = JetPlane(); //Error
+
+    return 0;
+}
+{% endhighlight cpp%}
+
+
+So when talking to a colleague about the "mystery", I realized it was a "help" from the Visual Studio compiler.  
+The same code in the GCC which is the compiler used in the course gives the error during compilation as expected.
+
+_Have a great day =)_
