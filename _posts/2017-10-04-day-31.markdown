@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [31/100]"
+date:   2017-10-04 23:11:00
+categories: challenge update
+---
+
+Day 31 of 100
+
+Hello my friend,
+
+Today I kept reading Scott Meyers' book. It's a great book with great explanations of certain practices that, fortunately, are including parts I've seen in C++. After I did some small programs to test and reinforce my understanding of lvalue and rvalue. And I continue my little project of manipulating files.
+
+_Have a great day =)_
