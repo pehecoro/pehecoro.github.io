@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Code Day [33/100]"
+date:   2017-10-06 15:02:00
+categories: challenge update
+---
+
+Day 33 of 100
+
+Hello my friend,
+
+Today I came back to see more about GLSL, so I'm following the incredible material that is in The Book of Shaders. I'm still at the beginning (uniform), but seeing the manipulation of the mouse position by the shader, unlike I already did in the OpenGL tutorial that manipulates it in the CPU, I had a simple idea of making a kind of flashlight. Through a simple distance calculation between the pixel and the point of my mouse and relating to the radius I pass, I caused the pixels to display their colors in a circle. After, I wanted to improve a little the vision that the flashlight would give, after all, it would not illuminate 100% in all points, that's when I wanted to use the distance to decrease the light. When I created a variable called "distance" to not recalculate the distance, I noticed that this name was already a function that calculated the distance between the points hahaha. I kept making the lantern, but in my own way, so the flashlight is not exactly a flashlight, but it was fun to create it. With this I already had some more ideas for my project with OpenGL.   
+["Pseudo FlashLight"][PseudoFlashLight]
+
+_Have a great day =)_
+
+
+[PseudoFlashLight]: http://thebookofshaders.com/edit.php?log=171006174431
