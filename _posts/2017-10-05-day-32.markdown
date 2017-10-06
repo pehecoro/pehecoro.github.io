@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [32/100]"
+date:   2017-10-05 23:31:00
+categories: challenge update
+---
+
+Day 32 of 100
+
+Hello my friend,
+
+Today I tried to follow just one line for my simple project of manipulating files. It has its parts close to the C, but I try to bring the learning about C++ to the maximum. Either way, it's fun to manipulate some things at a "low level". As it can still change the whole structure, I leave it to a next moment to post the code
+
+_Have a great day =)_
