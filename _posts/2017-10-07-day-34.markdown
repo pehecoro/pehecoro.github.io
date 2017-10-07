@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [34/100]"
+date:   2017-10-07 19:51:00
+categories: challenge update
+---
+
+Day 34 of 100
+
+Hello my friend,
+
+today I watched two OpenGL intro videos made by Cherno. They were good videos to remember and learn new things in the initial construction of a program using OpenGL. Then I saw some videos about Vulkan. So, in order to remember all my process and reinforce what I learned about OpenGL I rewrote the main code of my project.
+
+_Have a great day =)_
