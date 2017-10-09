@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [35/100]"
+date:   2017-10-08 23:14:00
+categories: challenge update
+---
+
+Day 35 of 100
+
+Hello my friend,
+
+today I finished redoing the OpenGL project I was in, causing me a lot of problems, which was great, because I had to remember and search a series of details. Well, after that I continued with OpenGL learning, concluding parts of the tutorial for Directional Light and Point lights.
+
+_Have a great day =)_
