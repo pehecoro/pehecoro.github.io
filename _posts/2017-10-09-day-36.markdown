@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [36/100]"
+date:   2017-10-09 23:14:00
+categories: challenge update
+---
+
+Day 36 of 100
+
+Hello my friend,
+
+today I read a little more of Scott Meyers' book and I continued the OpenGL tutorial on Light Casters. It is very interesting to replicate the various effects of our reality, and replicating the Flashlight that I had to try for GLSL was even cooler. I realized that it was not exactly what I had done in GLSL, as expected, but I think the idea was similar.
+
+_Have a great day =)_
