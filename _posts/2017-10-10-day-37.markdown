@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [37/100]"
+date:   2017-10-10 22:02:00
+categories: challenge update
+---
+
+Day 37 of 100
+
+Hello my friend,
+
+Today I continued the OpenGL tutorial. This time it was about Multiple Lights, I was able to apply several different kinds of lighting in the same environment. I used to create some of my own with what I learned.
+
+_Have a great day =)_
