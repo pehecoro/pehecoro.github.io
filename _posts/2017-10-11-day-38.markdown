@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [38/100]"
+date:   2017-10-11 22:23:00
+categories: challenge update
+---
+
+Day 38 of 100
+
+Hello my friend,
+
+today I learned more "about OpenGL". This time I saw how to render objects from exported models of 3D modeling tools. As each tool can export in its own way, the tutorial proposes the use of Assimp, a model loading library. With Assimp I will only worry about how it structures the received data, so I started to make a class to receive these values, which before I put them manually, and draw them.
+
+_Have a great day =)_
