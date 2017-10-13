@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [39/100]"
+date:   2017-10-12 23:27:00
+categories: challenge update
+---
+
+Day 39 of 100
+
+Hello my friend,
+
+Today I finished reading the Model section and I was able to load my first model in openGL !!! It was very nice to see the model in my program! However, I still have some doubts at some points in the process, so I'll still read more about it and continue to implement the lamps in the scenario with my new model.
+
+_Have a great day =)_
