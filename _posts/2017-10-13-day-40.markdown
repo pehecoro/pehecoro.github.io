@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Code Day [40/100]"
+date:   2017-10-13 22:57:00
+categories: challenge update
+---
+
+Day 40 of 100
+
+Hello my friend,
+
+Today I reviewed the models section, finished some lighting in my model and I took advantage of to change the model that was used of example by one of a game that I like a lot.
+![Lich King]({{"/images/lichking.png" | https://pehecoro.github.io/images/lichking.png}})
+
+
+_Have a great day =)_
