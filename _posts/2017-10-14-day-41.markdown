@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Code Day [41/100]"
+date:   2017-10-14 23:49:00
+categories: challenge update
+---
+
+Day 41 of 100
+
+Hello my friend,
+
+today I studied a section on Depth testing. An interesting part in the tutorial I had not given so much attention. I tested the various depth test functions to see how they behaved in a scenario proposed by the tutorial.
+Another interesting part that I had already noticed but did not know would be a problem in fact, is z-fighting. Anyway the tutorial exposes 3 techniques to reduce it.
+![Z-fighting]({{"/images/zfighting.png" | https://pehecoro.github.io/images/zfighting.png}})
+
+
+_Have a great day =)_
