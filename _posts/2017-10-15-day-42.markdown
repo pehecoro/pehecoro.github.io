@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [42/100]"
+date:   2017-10-15 23:45:00
+categories: challenge update
+---
+
+Day 42 of 100
+
+Hello my friend,
+
+today I have seen some videos from Cherno, both OpenGL and C ++, and I studied Stencil Testing. And certainly, Stencil Testing was something that I wanted to implement but did not know that there was such a good and "internal" tool for it. Now I can outline objects and, perhaps, the ones I select. The tool also has other uses, however I'm trying to outline the objects I've drawn on the screen during this journey.
+
+_Have a great day =)_
