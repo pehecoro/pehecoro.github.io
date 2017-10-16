@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [43/100]"
+date:   2017-10-16 20:24:00
+categories: challenge update
+---
+
+Day 43 of 100
+
+Hello my friend,
+
+today I read about two items from scott meyers' book. One is about explicitly disabling the use of compiler-generated functions that you do not want, and the other is to declare constructors as virtual in polymorphic base classes. Both of these items I put into practice and made some modifications to follow the compiler's treatment. The second item I had seen but not with the clear explanation given by the Book.
+
+_Have a great day =)_
