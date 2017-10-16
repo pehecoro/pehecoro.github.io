@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code Day [35/100]"
+title:  "Code Day [35/100] - OpenGL: Directional Light and Point lights"
 date:   2017-10-08 23:14:00
 categories: challenge update
 ---

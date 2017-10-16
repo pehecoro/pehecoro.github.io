@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code Day [38/100]"
+title:  "Code Day [38/100] - Assimp, mesh"
 date:   2017-10-11 22:23:00
 categories: challenge update
 ---

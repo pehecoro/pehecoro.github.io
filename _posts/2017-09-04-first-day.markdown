@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code Day [1/100]"
+title:  "Code Day [1/100] - Word Jumble, Puzzle Game"
 date:   2017-09-04 19:37:00
 categories: challenge update
 ---

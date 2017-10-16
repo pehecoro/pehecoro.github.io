@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code Day [34/100]"
+title:  "Code Day [34/100] - Welcome back OpenGL"
 date:   2017-10-07 19:51:00
 categories: challenge update
 ---

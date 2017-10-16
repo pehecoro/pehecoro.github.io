@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code Day [17/100]"
+title:  "Code Day [17/100] - Simple vector"
 date:   2017-09-20 20:59:00
 categories: challenge update
 ---

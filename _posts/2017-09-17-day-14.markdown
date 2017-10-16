@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code Day [14/100]"
+title:  "Code Day [14/100] - 'Quest system' pt 1"
 date:   2017-09-17 20:17:00
 categories: challenge update
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code Day [9/100]"
+title:  "Code Day [9/100] - Dynamic Memory"
 date:   2017-09-12 18:10:00
 categories: challenge update
 ---

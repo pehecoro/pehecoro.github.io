@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code Day [2/100]"
+title:  "Code Day [2/100] - Simple Shop using Vectors"
 date:   2017-09-05 17:33:00
 categories: challenge update
 ---

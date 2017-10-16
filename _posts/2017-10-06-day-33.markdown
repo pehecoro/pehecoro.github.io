@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code Day [33/100]"
+title:  "Code Day [33/100] - GLSL - pseudoflashlight"
 date:   2017-10-06 15:02:00
 categories: challenge update
 ---

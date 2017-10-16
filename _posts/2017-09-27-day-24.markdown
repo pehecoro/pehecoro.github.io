@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code Day [24/100]"
+title:  "Code Day [24/100] - Rat in a Maze"
 date:   2017-09-27 19:54:00
 categories: challenge update
 ---

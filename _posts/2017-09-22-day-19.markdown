@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code Day [19/100]"
+title:  "Code Day [19/100] - Exception, function pointer, auto, decltype, some vector optimizations"
 date:   2017-09-22 18:28:00
 categories: challenge update
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code Day [43/100]"
+title:  "Code Day [43/100] - Item 6,7 Effective C++"
 date:   2017-10-16 20:24:00
 categories: challenge update
 ---

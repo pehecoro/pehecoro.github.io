@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code Day [28/100]"
+title:  "Code Day [28/100] - Uniform initialization and initializer_list"
 date:   2017-10-01 21:19:00
 categories: challenge update
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code Day [23/100]"
+title:  "Code Day [23/100] - Binary Search Tree"
 date:   2017-09-26 21:50:00
 categories: challenge update
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code Day [6/100]"
+title:  "Code Day [6/100] - Simple use of Pointers"
 date:   2017-09-09 21:39:00
 categories: challenge update
 ---

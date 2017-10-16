@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code Day [30/100]"
+title:  "Code Day [30/100] - New Program"
 date:   2017-10-03 22:42:00
 categories: challenge update
 ---

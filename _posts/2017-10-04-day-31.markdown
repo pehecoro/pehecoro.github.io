@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code Day [31/100]"
+title:  "Code Day [31/100] - lvalue, rvalue and little project"
 date:   2017-10-04 23:11:00
 categories: challenge update
 ---

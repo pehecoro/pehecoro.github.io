@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code Day [37/100]"
+title:  "Code Day [37/100] - Multiple lights"
 date:   2017-10-10 22:02:00
 categories: challenge update
 ---

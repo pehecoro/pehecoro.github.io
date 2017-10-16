@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code Day [7/100]"
+title:  "Code Day [7/100] - Simple use of Classes"
 date:   2017-09-10 21:14:00
 categories: challenge update
 ---

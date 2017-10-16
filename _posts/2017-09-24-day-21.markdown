@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code Day [21/100]"
+title:  "Code Day [21/100] - Classes, structs, explicit, SDL, emissionMap"
 date:   2017-09-24 21:55:00
 categories: challenge update
 ---

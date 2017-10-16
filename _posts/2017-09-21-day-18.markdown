@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code Day [18/100]"
+title:  "Code Day [18/100] - Simple uses of Lambda"
 date:   2017-09-21 21:17:00
 categories: challenge update
 ---

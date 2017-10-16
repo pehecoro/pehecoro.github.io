@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code Day [27/100]"
+title:  "Code Day [27/100] - Default and deleted methods, override and final keywords"
 date:   2017-09-30 21:19:00
 categories: challenge update
 ---
