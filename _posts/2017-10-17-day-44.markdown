@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Code Day [44/100] - Not too fast(Depth/Stencil Testing) - Items 8,9 Effective"
+date:   2017-10-17 22:11:00
+categories: challenge update
+---
+
+Day 44 of 100
+
+Hello my friend,
+
+Today I practiced Depth Testing and Stencil Testing. I delineated my model successfully, and took the opportunity to test further changes in Stencil Testing, including simulating a shadow. After I went through the Scott Meyers book and saw two more items, about preventing destructors from throwing exceptions and never calling virtual functions during construction or destruction.
+![LichKingIceAge]({{"/images/lichkingIceAge.png" | https://pehecoro.github.io/images/lichkingIceAge.png}})
+
+
+_Have a great day =)_
