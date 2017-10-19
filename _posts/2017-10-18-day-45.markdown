@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [45/100] - Items 10, 11, 12 Effective C++"
+date:   2017-10-18 22:35:00
+categories: challenge update
+---
+
+Day 45 of 100
+
+Hello my friend,
+
+Today I've seen items about having the assignment operators return a reference to _*this_, treating the auto-assignments in _operator=_ and copying all parts of an object. Since I don't have a specific project to apply these effective practices, I create simple examples that apply them. As always, I update my learning-cpp repository with all examples.
+
+_Have a great day =)_
