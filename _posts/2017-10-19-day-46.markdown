@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [46/100] - Items 13, 14 Effective C++"
+date:   2017-10-19 23:49:00
+categories: challenge update
+---
+
+Day 46 of 100
+
+Hello my friend,
+
+Today I practiced a few more items about C++. But this time, in the chapter on resource management. The first chapter item was about using objects to manage resources and the second about thinking carefully about copy behavior in resource management. The only problem in practicing them is to create the specific situations that unfortunately I still don't live with, but I tried the same way.
+
+_Have a great day =)_
