@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [47/100] - Items 15, 16 Effective C++"
+date:   2017-10-20
+categories: challenge update
+---
+
+Day 47 of 100
+
+Hello my friend,
+
+today I practiced a few more items, but the codes I made were too shallow in implementation to focus on just exemplifying. Were items about providing access to raw resources in resource management classes and using the same way in the corresponding uses of new and delete.
+
+_Have a great day =)_
