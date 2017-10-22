@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [48/100] - Items 17, 18 Effective C++"
+date:   2017-10-21
+categories: challenge update
+---
+
+Day 48 of 100
+
+Hello my friend,
+
+Today I saw two more items from Scott Meyers' book. As always, these are things I did not think much about but that make a difference, however, I have not yet had the opportunity to see this in practice. These items deal with storing objects created with new in smart pointers in self-contained sentences and make the interfaces easy to use correctly and difficult to use incorrectly.
+
+_Have a great day =)_
