@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Code Day [49/100] - Blending"
+date:   2017-10-22
+categories: challenge update
+---
+
+Day 49 of 100
+
+Hello my friend,
+
+Today I read a bit of Effective C ++ but there were a few more items that I would have difficulty putting into practice outside of a project, so I preferred to put my hands on the OpenGL journey again and read about blending. Despite being a "common" feature it is much cooler to know how to present it in fact behind the cameras haha.
+![CoolBlending]({{"/images/coolBlending.png" | https://pehecoro.github.io/images/coolBlending.png}})
+
+_Have a great day =)_
