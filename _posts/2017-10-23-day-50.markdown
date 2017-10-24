@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Code Day [50/100] - Having Fun"
+date:   2017-10-23
+categories: challenge update
+---
+
+Day 50 of 100
+
+Hello my friend,
+
+Today I practiced a little more of the features I saw in OpenGL and, of course, I had a lot of fun using what I learned so far. Taking advantage, why not put something from my childhood? haha
+![Lugia]({{"/images/lugia.png" | https://pehecoro.github.io/images/lugia.png}})
+
+_Have a great day =)_
