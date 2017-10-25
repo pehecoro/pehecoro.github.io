@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Code Day [51/100] - Face culling"
+date:   2017-10-24
+categories: challenge update
+---
+
+Day 51 of 100
+
+Hello my friend,
+
+Today I read about Face culling. The idea is to discard fragments that would be rendered by the Shader that would not be visible. So, through the tutorial I was able to put in practice one more OpenGL functionality, which could interpret fragments that are behind according to our configuration but based on the order in which the vertices were passed to render.  
+This is an example with other settings.
+![FaceCulling]({{"/images/faceculling.png" | https://pehecoro.github.io/images/faceculling.png }})
+
+_Have a great day =)_
