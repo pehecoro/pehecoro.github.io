@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [52/100] - Framebuffers and backtrack to depth and stencil"
+date:   2017-10-25
+categories: challenge update
+---
+
+Day 52 of 100
+
+Hello my friend,
+
+Today I read about effective c++ and a little bit about framebuffers, which in a way I was already using without, let's say, customize it. Although it was a topic that interested me (what a surprise haha), I felt that it was necessary to review some previous things, even if nearby, such as Depth testing and Stencil testing. I will still use today to reorganize some daily quests.
+
+_Have a great day =)_
