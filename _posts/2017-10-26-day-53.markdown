@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [53/100] - I like to move it, move it (C++)"
+date:   2017-10-26
+categories: challenge update
+---
+
+Day 53 of 100
+
+Hello my friend,
+
+Today I went back to C++ course in pluralsight. So I started from Move Semantics by seeing its implementation, the move function, the guidelines, and I saw some examples of move-only types. Within this I also saw about reference qualifiers for member functions. I really enjoyed going back to the course and following up by testing and modifying some of my own codes, because I could also combine with some great "practices" that I read in Scott Meyers' book. Anyway I will not post the code because I think it is more a testing area so that I can have fun and reinforce learning.
+
+_Have a great day =)_
