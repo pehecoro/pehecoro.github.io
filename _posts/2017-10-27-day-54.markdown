@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [54/100] - More C++ topics"
+date:   2017-10-27
+categories: challenge update
+---
+
+Day 54 of 100
+
+Hello my friend,
+
+Today I have seen more videos by Pluralsight on Perfect Forwarding, Reference Collapsing, constexpr mechanism, functions and literal types. All these topics I could practice according to the examples given and as I wanted to understand better.
+
+_Have a great day =)_
