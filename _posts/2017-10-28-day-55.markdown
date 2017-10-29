@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [55/100] - Range-based for loops, nullptr, enum changes "
+date:   2017-10-28
+categories: challenge update
+---
+
+Day 55 of 100
+
+Hello my friend,
+
+Today I read a bit of Effective C++, after I watched and practiced some Pluralsight videos on Range-based for Loops, Nullptr and Enum Changes in C++11.
+
+_Have a great day =)_
