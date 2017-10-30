@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [56/100] - Compile Time Assertions and Literals"
+date:   2017-10-29
+categories: challenge update
+---
+
+Day 56 of 100
+
+Hello my friend,
+
+today I saw and practiced some more pluralsight videos. Topics covered were Compile Time Assertions, Unicode Literals, Raw Literals, and User Defined Literals. All topics were cool, but I liked User Defined Literals more, because I could have more control of the literals in a very exotic way, at least for me.
+
+_Have a great day =)_
