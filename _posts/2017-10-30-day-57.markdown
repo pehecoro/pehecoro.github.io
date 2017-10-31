@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [57/100] - Review and exception specifications"
+date:   2017-10-30
+categories: challenge update
+---
+
+Day 57 of 100
+
+Hello my friend,
+
+Today I reviewed some concepts about C++ and could see and practice the exception specifications. It is always good to review some things because I can assimilate better and, perhaps, find even more points that I didn't pay attention to.
+
+_Have a great day =)_
