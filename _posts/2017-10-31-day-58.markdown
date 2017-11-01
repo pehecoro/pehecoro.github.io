@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [58/100] - Explicit Conversion Operators, Inline Namespaces, Alignment and Memory Model"
+date:   2017-10-31
+categories: challenge update
+---
+
+Day 58 of 100
+
+Hello my friend,
+
+Today I saw Pluralsight videos about Explicit Conversion Operators, Inline Namespaces, alignof, alignas, sizeof and an overview of Memory Model. They were interesting topics and I practiced them as always. However, I had to turn to other sources for alignment, which gave me a bit more confidence.
+
+_Have a great day =)_
