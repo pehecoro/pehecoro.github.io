@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [59/100] - A simple android app"
+date:   2017-11-01
+categories: challenge update
+---
+
+Day 59 of 100
+
+Hello my friend,
+
+Today I made a simple android application for my friend. The idea of the application is to display a countdown of specific days of the month, even with just that function, I was free to learn and apply other small visual functions to make the application as pleasant as possible.
+
+_Have a great day =)_
