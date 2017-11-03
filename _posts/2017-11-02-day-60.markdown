@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [60/100] - Thread Local Storage, Generalized Attributes and POD Types"
+date:   2017-11-02
+categories: challenge update
+---
+
+Day 60 of 100
+
+Hello my friend,
+
+Today I saw some more Pluralsight videos about C++. Were again very interesting videos, such as Thread Local Storage, Generalized Attributes and POD Types. But I realize that I will have to review more. Even watching the videos, noting certain points and practicing them, I still did not feel firm.
+
+_Have a great day =)_
