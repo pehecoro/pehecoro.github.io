@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [61/100] - Restrictions on Unions, C99 Compatibility and Writing Cross-platform Code"
+date:   2017-11-03
+categories: challenge update
+---
+
+Day 61 of 100
+
+Hello my friend,
+
+Today I've seen more Pluralsight videos on C++. This time on Restrictions on Unions in C++ 11, C99 Compatibility, Deprecations, Removals and Writing Cross-platform Code. As always, I practiced and made some modifications to certify what I learned.
+
+_Have a great day =)_
