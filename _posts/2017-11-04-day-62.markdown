@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [62/100] - Features for C++ 14"
+date:   2017-11-04
+categories: challenge update
+---
+
+Day 62 of 100
+
+Hello my friend,
+
+Today I saw some features for C++ 14 through Pluralsight. Unfortunately, today I could not fully experience these new features, but as the idea of the video was to give a general idea about the news, it was not necessary to understand very well. Anyway, this course is over and I will start a new one tomorrow with a lot more cool things to apply in C++, and of course, without stopping using everything already learned.
+
+_Have a great day =)_
