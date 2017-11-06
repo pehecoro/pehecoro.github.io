@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [63/100] - Modern C++ Assertions/Verify"
+date:   2017-11-05
+categories: challenge update
+---
+
+Day 63 of 100
+
+Hello my friend,
+
+Today I started the course of modern C++ in Pluralsight. I liked the approach of the new author and started to see about the use of assertion. Although he has already seen part on, the way the author explains and demonstrates in practice makes learning even better.
+
+_Have a great day =)_
