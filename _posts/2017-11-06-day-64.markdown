@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [64/100] - Debugging with Trace"
+date:   2017-11-06
+categories: challenge update
+---
+
+Day 64 of 100
+
+Hello my friend,
+
+Today I saw some more techniques and macros to help me debug C++ applications. It was very cool to be able to create a trace of a point that I define, even more implementing with the variadic templates and, of course, remembering the difference that makes a good debugger.
+
+_Have a great day =)_
