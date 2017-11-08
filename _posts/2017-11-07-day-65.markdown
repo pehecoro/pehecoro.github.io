@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [65/100] - Review: Smart Pointers"
+date:   2017-11-07
+categories: challenge update
+---
+
+Day 65 of 100
+
+Hello my friend,
+
+Today I reviewed smart pointers at Pluralsight. I have remembered some points that are essential for C++ developers (know how to manage their resources). To, in fact, further consolidate, I practiced unique_ptr, shared_ptr, and weak_ptr one more time.
+
+_Have a great day =)_
