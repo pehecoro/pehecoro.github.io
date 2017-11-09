@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [66/100] - Smart Classes"
+date:   2017-11-08
+categories: challenge update
+---
+
+Day 66 of 100
+
+Hello my friend,
+
+Today I continued with the C ++ course and started to see about Smart Classes. I am much better suited to this instructor, he always exemplifies and I can follow along with my code without problems. In the course we are using the Windows API which made it even more interesting and exciting. I often remember and learn from the instructor some optimizations that I have followed in some places, which makes it even more enriching. Inside the module I followed the initial construction of the class together with resource management and member functions.
+
+_Have a great day =)_
