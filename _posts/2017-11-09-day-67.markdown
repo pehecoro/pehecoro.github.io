@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [67/100] - Smart Classes Pt2"
+date:   2017-11-09
+categories: challenge update
+---
+
+Day 67 of 100
+
+Hello my friend,
+
+I continued building my Smart Class using the Windows API. This time I implemented the copy constructor and move constructor. Then I started mapping a file through my Handle class over the Windows API. The cool thing is that I can still see applications of some things I learned in Effective C++.
+
+_Have a great day =)_
