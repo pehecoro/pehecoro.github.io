@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [68/100] - Swapping"
+date:   2017-11-10
+categories: challenge update
+---
+
+Day 68 of 100
+
+Hello my friend,
+
+I saw a little bit about container, elements (container objects) and swapping. It was interesting to see the cost of the swap by the standard library and implement a proper one for the class, thinking about Argument-dependent lookup. Through ADL, implementing a "proper" function, code optimization became clear. In the example I created, there was no more creation of a temporary variable or Move Assignment or Move Constructor for the swap.
+
+_Have a great day =)_
