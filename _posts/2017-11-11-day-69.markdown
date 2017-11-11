@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [69/100] - Smart Class | More operators"
+date:   2017-11-11
+categories: challenge update
+---
+
+Day 69 of 100
+
+Hello my friend,
+
+Today I saw about Equality and Relational Operators and Vectors. Today was not a very new feature for me, but I've seen other ways to implement them, good practices and I'm improving my class to become ideal for manipulation. I practiced the exemplified and ventured with some uses of the operators overloaded by me.
+
+_Have a great day =)_
