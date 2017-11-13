@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code Day [67/100] - Smart Classes Pt2"
+title:  "Code Day [67/100] - Smart Class | Constructors"
 date:   2017-11-09
 categories: challenge update
 ---
