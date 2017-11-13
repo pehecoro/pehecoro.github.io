@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [70/100] - Smart Class | List and Movement"
+date:   2017-11-12
+categories: challenge update
+---
+
+Day 70 of 100
+
+Hello my friend,
+
+I continued my walk through Smart Classes. This time I saw about List and Movement within Containers. As always, quite interesting, mainly because I practiced together and I could see the list code, as, for example, some operators were overloaded to make the class even better. A few things about container handling, as exemplified in vector and list, I had already seen on the Cherno channel, but it was great to review and have another vision for me to accommodate learning.
+
+_Have a great day =)_
