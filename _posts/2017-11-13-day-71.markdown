@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [71/100] - Associative Containers | Set"
+date:   2017-11-13
+categories: challenge update
+---
+
+Day 71 of 100
+
+Hello my friend,
+
+Today I read a bit of Effective C++ and continued with C++ course with Associative Containers. I have seen some advantages and the use of the set in spite of having already implemented. Once again, I followed the course practicing and taking advantage to look at some implementations made by MSVC++.
+
+_Have a great day =)_
