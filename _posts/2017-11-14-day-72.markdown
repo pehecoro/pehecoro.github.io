@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [72/100] - Associative Containers | Map, Multimap, and Unordered_map"
+date:   2017-11-14
+categories: challenge update
+---
+
+Day 72 of 100
+
+Hello my friend,
+
+Today I saw more about Associative Containers. This time on Map, Multimap and Unordered_Map. They all have their advantages and disadvantages, obviously like everything in life, I believe. Either way, it was quite interesting to implement them and vary their uses to understand well. I want to continue to manipulate a bit more and relate them seeing the implementation of the containers through Visual Studio =).
+
+_Have a great day =)_
