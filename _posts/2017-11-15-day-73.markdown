@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [73/100] - TTD, Review, and basic_string"
+date:   2017-11-15
+categories: challenge update
+---
+
+Day 73 of 100
+
+Hello my friend,
+
+Today I saw a presentation on Youtube of Time Travel Debugging (TTD) in CppCon and I took the opportunity to apply it recreating the study of yesterday. It was a way I found of putting together something that I found interesting with a revision of the seen previously. After I continued the course and saw some features of the string, there was functionality that I didn't know and some that I could review.
+
+_Have a great day =)_
