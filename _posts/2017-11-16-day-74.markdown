@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [74/100] - Regular Expressions and RE Iterators"
+date:   2017-11-16
+categories: challenge update
+---
+
+Day 74 of 100
+
+Hello my friend,
+
+Today I saw the last videos of the course. Too bad, but I will look for other courses from the same author! I finished with the topics of Regular expressions and Regular Expressions iterators. And despite knowing the regular expressions, the author exemplified with very interesting situations and even downloaded a webpage to manipulate it (through the class we created) and collect certain information with the regular expression. As always, it was possible to follow up and make my own variations.
+
+_Have a great day =)_
