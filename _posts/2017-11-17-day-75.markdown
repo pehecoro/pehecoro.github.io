@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [75/100] - Design Patterns | Adapter"
+date:   2017-11-17
+categories: challenge update
+---
+
+Day 75 of 100
+
+Hello my friend,
+
+Today I started the Design Patterns in C++ course. The first pattern was the Adapter, I found it interesting and I could relate to some examples given by the author (Unfortunately, it's not the same, but it's good). I also followed the course by developing small classes that represented an Adapter. Anyway I didn't finish the module, but I believe it'll be more and more interesting.
+
+_Have a great day =)_
