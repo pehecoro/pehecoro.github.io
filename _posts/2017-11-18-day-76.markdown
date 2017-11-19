@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [76/100] - Design Patterns | More Adapter"
+date:   2017-11-18
+categories: challenge update
+---
+
+Day 76 of 100
+
+Hello my friend,
+
+Today I saw some more Adapters. The new example given by the author was very cool because it was, somehow, related to Computer Graphics. It was necessary to create an Adapter to draw rectangles, so we adapted the existing point drawing interface to fit our rectangle drawing interface. This all using a graphical interface provided by the author, making it even more interactive. In the end, he optimized the process so that if it were to draw the same line, it wouldn't generate new points for a previously described line, thus implementing caching. The cool thing is: this reminded me of some OpenGL topics that talked about not processing what the camera would not see, such as a simple occlusion.
+
+_Have a great day =)_
