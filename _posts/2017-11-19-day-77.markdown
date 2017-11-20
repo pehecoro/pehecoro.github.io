@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [77/100] - Design Patterns | Bridge"
+date:   2017-11-19
+categories: challenge update
+---
+
+Day 77 of 100
+
+Hello my friend,
+
+Continuing with the course I saw about one more design pattern: Bridge. The main idea revolves around decoupling an interface from an implementation, so we saw in the first example the Person class that had the Greet function. Thus, in charge of the implementation define how. However, the best example for me was to create classes (which inherited from the abstract Renderer class) to implement how to render a circle. Then the class (circle, for example) receives a Renderer and renders the circle independently of the implementer =D. Anyway, I believe this isn't far from what I have already implemented but it's always good to review with other eyes.
+
+_Have a great day =)_
