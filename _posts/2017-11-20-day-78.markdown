@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [78/100] - Design Patterns | Composite"
+date:   2017-11-20
+categories: challenge update
+---
+
+Day 78 of 100
+
+Hello my friend,
+
+Today I saw about Composite Design Pattern. I initially thought it would be somewhat similar to something I've already created, but somehow I didn't quite understand it until the author talks about the "simple" fact that the Composite Design Pattern uses both inheritance and composition. And thus he begins the practice ... Well, that was simply amazing. I followed his practice without handling the program very much, but there are still some modules ahead.
+
+_Have a great day =)_
