@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Code Day [79/100] - Design Patterns | More Composite"
+date:   2017-11-21
+categories: challenge update
+---
+
+Day 79 of 100
+
+Hello my friend,
+
+Today I saw a little more about Composite Design Pattern. Although one of the examples given by him is related to rendering, which already excites me, he gave another interesting example about neural networks. We created Neuron and NeuronLayer to make the connections between individuals and collections using the pattern we are following.  
+I really liked it.
+
+_Have a great day =)_
