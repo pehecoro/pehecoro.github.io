@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [80/100] - Design Patterns | Decorator"
+date:   2017-11-22
+categories: challenge update
+---
+
+Day 80 of 100
+
+Hello my friend,
+
+Today I started to see the Decorator Design Pattern. The idea is to add new behaviors to specific objects without interfering with others in the same class. I believe I'll have to exercise this pattern more, but all of them are very interesting so far, I even learn new techniques during the example, so I do not think it'll be a problem.
+
+_Have a great day =)_
