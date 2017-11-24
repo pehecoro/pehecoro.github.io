@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [81/100] - Design Patterns | More Decorator"
+date:   2017-11-23
+categories: challenge update
+---
+
+Day 81 of 100
+
+Hello my friend,
+
+Today I continued the Decorator module. I studied the topics of Function Decorator, Wrapping Decorator, Mixin Inheritance and Usability Improvements. All of them, to me, were like an improvement on what was proposed earlier. Which was really cool because I also thought about some possible problems that were immediately suggested by the author. Although it's about design pattern, the author uses some of the resources I studied but didn't remember very well, helping me even more in practice and reinforcement.
+
+_Have a great day =)_
