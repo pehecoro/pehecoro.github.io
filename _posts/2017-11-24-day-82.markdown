@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [82/100] - Beautiful C++"
+date:   2017-11-24
+categories: challenge update
+---
+
+Day 82 of 100
+
+Hello my friend,
+
+Today I did a series of Free Code Camp exercises on HTML and CSS. I found it very cool how they structured the practice to the concept. After, I started Kate Gregory's Beautiful C++ course. As I had already seen a course of it, I wasn't surprised by the continuity of the great course quality. This time it's mainly about the use of the C++ Standard Library (known as STL), a simply amazing 'feature set' that is sometimes not used for lack of knowledge. I also took advantage of it to practice some design patterns.
+
+_Have a great day =)_
