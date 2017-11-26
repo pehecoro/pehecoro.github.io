@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [83/100] - Beautiful C++ | STL: Count, Find - Variations"
+date:   2017-11-25
+categories: challenge update
+---
+
+Day 83 of 100
+
+Hello my friend,
+
+Today I followed the Beautiful C++ course. I saw about Count, Find and their variations. Although I have already used Count and Find, except the variations, I could see more clearly the importance of these functions, how they work, and how they can easily adapt to our needs without having to create our own. As usual, I followed the demonstrations in my editor.
+
+_Have a great day =)_
