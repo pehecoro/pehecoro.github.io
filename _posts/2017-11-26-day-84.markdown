@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [84/100] - Beautiful C++ | STL: Sorting"
+date:   2017-11-26
+categories: challenge update
+---
+
+Day 84 of 100
+
+Hello my friend,
+
+Today I continued to progress at FreeCodeCamp. So, Although I've already seen some subjects covered, I believe that I'm solidifying my knowledge of CSS and HTML. After, I proceeded with the course of Beautiful C++. This time about Sorting, a topic I had already seen superficially and which I now see in more detail.
+
+_Have a great day =)_
