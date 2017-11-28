@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [85/100] - Beautiful C++ | STL: More Sorting"
+date:   2017-11-27
+categories: challenge update
+---
+
+Day 85 of 100
+
+Hello my friend,
+
+Today I saw more about Sorting and finished the module. As always, I followed the course by developing my own examples and better identifying the uses of the new functions I learned. The curious thing is that in the past I used a function from the C library to generate random numbers, I now use a specific random library, which, as before, I used for the Shuffle. After I saw how to sort a collection partially, copy it, check if it's sorted and also through a pivot without guarantee of ordering the other elements. Well, I will still practice more but I intend to start some specific project and apply what I'm learning.
+
+_Have a great day =)_
