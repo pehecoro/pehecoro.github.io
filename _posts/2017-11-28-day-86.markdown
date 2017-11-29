@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [86/100] - Beautiful C++ | STL: Comparing"
+date:   2017-11-28
+categories: challenge update
+---
+
+Day 86 of 100
+
+Hello my friend,
+
+Today unfortunately I couldn't start a project that applied what was learned previously. So I proceeded with the course for the module on Comparing. Again the power of the STL is demonstrated in terms of solutions to problems that unfortunately we often use our own solutions.
+
+_Have a great day =)_
