@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Code Day [87/100] - OpenGL | The Comeback is real"
+date:   2017-11-29
+categories: challenge update
+---
+
+Day 87 of 100
+
+Hello my friend,
+
+Today I studied a little more by the practices of FreeCodeCamp and I returned to my project of OpenGL. As the idea is to remember some things, I chose to start from a Stencil Testing project and make some modifications that I thought about right now.   
+I have some more ideas in mind, so I plan to do more OpenGL projects by taking advantage of everything I've learned about C++.
+
+_Have a great day =)_
