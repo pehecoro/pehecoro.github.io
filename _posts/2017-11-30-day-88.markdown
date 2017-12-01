@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Code Day [88/100] - OpenGL | Text Rendering"
+date:   2017-11-30
+categories: challenge update
+---
+
+Day 88 of 100
+
+Hello my friend,
+
+Today I started to see a very interesting subject, which I already wanted to bring to my small OpenGL study projects: Text Rendering. I would like to put some details on what is being rendered in my projects and now I believe I can start implementing some little things. I followed the amazing OpenGL website ever - [learnopengl.com][learnopengl]. Quite excited to create a few more things, but I will insist on better understanding the "basics" behind the scenes.   
+![ComebackRat]({{"/images/comebackRat.png" | https://pehecoro.github.io/images/comebackRat.png}})
+
+
+_Have a great day =)_
+
+[learnopengl]: https://learnopengl.com 
