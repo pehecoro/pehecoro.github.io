@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Code Day [89/100] - OpenGL | More Text Rendering"
+date:   2017-12-01
+categories: challenge update
+---
+
+Day 89 of 100
+
+Hello my friend,
+
+Today I studied some more about Graphics Rendering Pipeline and continued practicing Text Rendering. As my goal is to modify according to my ideas to learn better, I created a dynamic text as the camera direction and some static texts as the positions of the windows. I used, as the basis of the project, what I created in the Blending tutorial.
+![ComebackText]({{"/images/comebackText.png" | https://pehecoro.github.io/images/comebackText.png}})
+
+
+_Have a great day =)_
