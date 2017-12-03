@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Code Day [90/100] - OpenGL | Framebuffers"
+date:   2017-12-02
+categories: challenge update
+---
+
+Day 90 of 100
+
+Hello my friend,
+
+Today I read about Framebuffers. I had read a little while ago but I had gone back to C++, so I read again the beginning and revise some buffers to understand better.   
+GLFW already created a default framebuffer and took care of some details for me, but now I am able to create one that is bound to an output color buffer. So with this buffer I can make some nice modifications.   
+Based on what I am still learning, I tried to simulate the effect of a toy in WoW that modifies the player's view.   
+Before:   
+![BeforeFramebuffers]({{"/images/beforeFramebuffers.png" | https://pehecoro.github.io/images/beforeFramebuffers.png}})   
+After:   
+![AfterFramebuffers]({{"/images/afterFramebuffers.png" | https://pehecoro.github.io/images/afterFramebuffers.png}})   
+
+_Have a great day =)_
