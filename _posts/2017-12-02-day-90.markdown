@@ -12,9 +12,9 @@ Hello my friend,
 Today I read about Framebuffers. I had read a little while ago but I had gone back to C++, so I read again the beginning and revise some buffers to understand better.   
 GLFW already created a default framebuffer and took care of some details for me, but now I am able to create one that is bound to an output color buffer. So with this buffer I can make some nice modifications.   
 Based on what I am still learning, I tried to simulate the effect of a toy in WoW that modifies the player's view.   
-Before:   
+__Before__:   
 ![BeforeFramebuffers]({{"/images/beforeFramebuffers.png" | https://pehecoro.github.io/images/beforeFramebuffers.png}})   
-After:   
+__After__:   
 ![AfterFramebuffers]({{"/images/afterFramebuffers.png" | https://pehecoro.github.io/images/afterFramebuffers.png}})   
 
 _Have a great day =)_
