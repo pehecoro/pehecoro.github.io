@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Code Day [91/100] - OpenGL | More Framebuffers"
+date:   2017-12-03
+categories: challenge update
+---
+
+Day 91 of 100
+
+Hello my friend,
+
+I trained more on Framebuffers today. So I made some remaining examples and some modifications of my own. The idea is to practice some more before leaving for the next adventure =D.   
+![MoreFramebuffers1]({{"/images/moreFramebufferBlur.png" | https://pehecoro.github.io/images/moreFramebufferBlur.png}})   
+![MoreFramebuffers2]({{"/images/moreFramebufferDiv.png" | https://pehecoro.github.io/images/moreFramebufferDiv.png}})   
+
+_Have a great day =)_
