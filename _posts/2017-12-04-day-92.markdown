@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [92/100] - OpenGL | Breakout Tutorial"
+date:   2017-12-04
+categories: challenge update
+---
+
+Day 92 of 100
+
+Hello my friend,
+
+Today I started a tutorial on the Breakout game. I had already started a similar project but in SDL. Until then I followed the creation of some classes to abstract a series of processes that I do in the natural flow of the tutorial. It is quite interesting how it was abstracted by the author, but as there was a change of some things and some things that I preferred to optimize I ended up following a relatively own way.
+
+_Have a great day =)_
