@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Code Day [93/100] - OpenGL | Breakout Tutorial pt2"
+date:   2017-12-05
+categories: challenge update
+---
+
+Day 93 of 100
+
+Hello my friend,
+
+Today I continued the Breakout game tutorial. It is simply amazing how it's possible to abstract several processes that I did before manually and get to the point where I am. Danger of me getting too excited and leaving for a specific game right after the end of this project.   
+Today I created the levels (also a random level generator with some criteria), the player with the basic movements and all of them rendered successfully \o/   
+Thanks to [learnopengl.com][learnopengl]   
+![Breakout]({{"/images/breakout.png" | https://pehecoro.github.io/images/breakout.png}})   
+
+_Have a great day =)_
+
+[learnopengl]: https://learnopengl.com 
