@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Code Day [94/100] - OpenGL | Breakout Tutorial pt3"
+date:   2017-12-06
+categories: challenge update
+---
+
+Day 94 of 100
+
+Hello my friend,
+
+Today I developed breakout collisions. Initially, I created, along with the tutorial, the collision between rectangles (assuming the ball would be treated in the collision as a rectangle), which I had already done some time ago by SDL. Although I had no difficulty with this collision, the next one that was suggested gave me a bit of work to understand, it was the most accurate collision between the circle (ball) and the rectangle (brick). After a calm reading I got a better understanding and I also implemented as indicated by the site.
+
+_Have a great day =)_
