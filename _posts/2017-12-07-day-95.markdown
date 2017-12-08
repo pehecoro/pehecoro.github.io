@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Code Day [95/100] - OpenGL | Breakout Tutorial pt4"
+date:   2017-12-07
+categories: challenge update
+---
+
+Day 95 of 100
+
+Hello my friend,
+
+Today I followed the sequence, as expected, of the breakout tutorial, this time about Particles. I found it quite interesting because with what I learned I can create some really cool effects, and who knows for my next game.   
+![BreakoutPt4]({{"/images/breakoutPt4.png" | https://pehecoro.github.io/images/breakoutPt4.png}})   
+
+_Have a great day =)_
+
+[learnopengl]: https://learnopengl.com 
