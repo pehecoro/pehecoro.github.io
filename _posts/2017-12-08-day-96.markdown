@@ -11,7 +11,7 @@ Hello my friend,
 
 Today I read the topic of Anti Aliasing. As the next part of the Breakout tutorial requires knowledge about Anti Aliasing, I studied a little about and implemented MSAA, a very simple Anti Aliasing technique to implement.   
 {% raw %}
-<iframe frameborder="0" class="juxtapose" width="100%" height="100%" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=2b91ec20-dc48-11e7-b263-0edaf8f81e27"></iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" height="930" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=2b91ec20-dc48-11e7-b263-0edaf8f81e27"></iframe>
 {% endraw %}
 
 _Have a great day =)_
