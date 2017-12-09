@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code Day [96/100] - OpenGL | Breakout Tutorial pt5"
+title:  "Code Day [96/100] - OpenGL | Breakout - Anti Aliasing"
 date:   2017-12-08
 categories: challenge update
 ---

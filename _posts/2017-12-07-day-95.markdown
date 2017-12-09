@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code Day [95/100] - OpenGL | Breakout Tutorial pt4"
+title:  "Code Day [95/100] - OpenGL | Breakout - Particles"
 date:   2017-12-07
 categories: challenge update
 ---
