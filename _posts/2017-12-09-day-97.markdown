@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Code Day [97/100] - OpenGL | Breakout - Post-processing"
+date:   2017-12-09
+categories: challenge update
+---
+
+Day 97 of 100
+
+Hello my friend,
+
+After studying Anti Aliasing, I was able to move on to the Post-processing part of the Breakout tutorial. Well, it's just amazing the effects you can create, including some that I created earlier with the introduction to framebuffers. Although I risk some of my own, the effects suggested by the author are pretty cool. As for example Chaos:   
+![Breakout - Chaos]({{"/images/breakoutPostP.png" | https://pehecoro.github.io/images/breakoutPostP.png}})   
+
+_Have a great day =)_
