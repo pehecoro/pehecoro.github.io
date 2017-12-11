@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Code Day [98/100] - OpenGL | Breakout - Powerups"
+date:   2017-12-10
+categories: challenge update
+---
+
+Day 98 of 100
+
+Hello my friend,
+
+Today I did the part of the powerups. It was also a very fun part to do, because it makes the game much more exciting and gave me more cool ideas to implement.
+![Breakout - Powerups]({{"/images/breakoutPowerup.png" | https://pehecoro.github.io/images/breakoutPowerup.png}})   
+
+_Have a great day =)_
