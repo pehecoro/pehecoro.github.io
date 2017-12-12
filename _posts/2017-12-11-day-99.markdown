@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Code Day [99/100] - OpenGL | Breakout - Audio"
+date:   2017-12-11
+categories: challenge update
+---
+
+Day 99 of 100
+
+Hello my friend,
+
+Today, using the small audio track offered by [learnopengl.com][learnopengl], I put the sounds to make the game even cooler. As suggested by the author, I used the IRRKLANG library. It's a fairly simple library to use, but it has some limitations in licensing.   
+
+_Have a great day =)_
+
+[learnopengl]: https://learnopengl.com 
+
