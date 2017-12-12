@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Code Day [100/100] - OpenGL | Breakout - Render Text - Final"
+date:   2017-12-12
+categories: challenge update
+---
+
+Day 100 of 100
+
+Hello my friend,
+
+A great challenge comes to an end, but is it the end or just a start? These 100 days were able to grant me the habit of daily study, of persistence in the face of any problems, and of course much learning. Today I finished the breakout tutorial created by [Joey de Vries][joeydevries] at [learnopengl.com][learnopengl]. It was quite enriching all abstractions and gather all the knowledge gained throughout the tutorial to create this game. With the final considerations made by Joey, I will persist with some optimizations in the project, patterns study, "more graphics" and own projects.
+![Breakout - Final?]({{"/images/breakoutPseudoEnd.png" | https://pehecoro.github.io/images/breakoutPseudoEnd.png}}) 
+
+
+_Have a great day =)_
+
+[learnopengl]: https://learnopengl.com 
+[joeydevries]: https://twitter.com/JoeyDeVriez
